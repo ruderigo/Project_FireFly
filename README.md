@@ -1,6 +1,8 @@
 # RNS Node — Android Reticulum Mesh & Heltec RNode Bridge
 
-
+<p align="center">
+  <img src="RNS_Node.gif" alt="RNS Node Demo" width="400" />
+</p>
 
 ### [APK FILE](https://drive.google.com/file/d/1A1dp17WvePqK_mVoLU4CfZs40JySRiLx/view?usp=sharing)
 
