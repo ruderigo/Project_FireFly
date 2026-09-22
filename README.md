@@ -5,7 +5,7 @@
   <img src="RNS_Node.gif" alt="RNS Node Demo" width="200" />
 </p>
 
-**RNS Node** is a decentralized, off-grid communications client for Android. It embeds the official [Reticulum Network Stack](https://reticulum.network/) (`rns`) and the [Lightweight Extensible Mesh Framework](https://github.com/markqvist/LXMF) (`lxmf`) directly on-device using Chaquopy, paired with an integrated low-latency USB bridge for hardware LoRa transceivers (such as the Heltec WiFi LoRa 32 V3).
+**RNS Node** is a decentralized, off-grid communications client for Android. It embeds the official [Reticulum Network Stack](https://reticulum.network/) (`rns`) and the [Lightweight Extensible Mesh Framework](https://github.com/markqvist/LXMF) (`lxmf`) directly on-device using Chaquopy, paired with an integrated BLE or low-latency USB bridge for the LoRa transceivers Heltec LoRa 32 V3.
 
 ---
 
