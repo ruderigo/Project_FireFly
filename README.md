@@ -20,9 +20,7 @@ Turn any modern Android device into an autonomous mesh communication station wit
 
 ## Installation & Field Deployment
 
-### 1. Download the APK
-1. On your Android device, navigate to the **Releases** section of this GitHub repository.
-2. Under the latest release, download the `FireFly1.apk` asset directly to your device (or locate the pre-compiled APK in this repository under `.build-outputs/app-debug.apk`).
+### 1. Download the [APK FILE](https://drive.google.com/file/d/1a9jSQB5GynEuFO6uS-s5BE02JWgiKKlV/view?usp=sharing)
 
 ---
 
