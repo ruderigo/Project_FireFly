@@ -1,6 +1,10 @@
 # RNS Node — Android Reticulum Mesh & Heltec RNode Bridge 
 # [APK FILE](https://drive.google.com/file/d/1a9jSQB5GynEuFO6uS-s5BE02JWgiKKlV/view?usp=sharing)
 
+<p align="center">
+  <img src="demo.gif" alt="demo" width="400" />
+</p>
+
 [![Android](https://img.shields.io/badge/Platform-Android%207.0%2B%20(API%2024%2B)-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose%20(M3)-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
